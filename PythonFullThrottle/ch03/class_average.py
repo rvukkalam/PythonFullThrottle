@@ -15,7 +15,7 @@ for grade in grades:
 average = total / grade_counter
 print(f'Class average is {average}')
 print('The average is {}'.format(average))
-
+print("hi")
 ##########################################################################
 # (C) Copyright 2019 by Deitel & Associates, Inc. and                    #
 # Pearson Education, Inc. All Rights Reserved.                           #
