@@ -14,6 +14,7 @@ for grade in grades:
 # termination phase
 average = total / grade_counter
 print(f'Class average is {average}')
+print('The average is {}'.format(average))
 
 ##########################################################################
 # (C) Copyright 2019 by Deitel & Associates, Inc. and                    #
