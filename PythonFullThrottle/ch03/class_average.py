@@ -12,8 +12,7 @@ for grade in grades:
     grade_counter += 1  # indicate that one more grade was processed
 
 # termination phase
-#average = total / grade_counter
-while
+average = total / grade_counter
 print(f'Class average is {average}')
 print('The average is {}'.format(average))
 
