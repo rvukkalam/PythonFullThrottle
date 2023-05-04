@@ -4,3 +4,4 @@ print("Hello")
 for x in range(1,30,2):
   print(x)
  
+print('for loop is completed')
